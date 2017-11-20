@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BreakfastRestaurant</string>
+    <string name="action_settings">Add</string>
+    <string name="detail">there is no data and please add data by use this button at bottom after that add information</string>
+</resources>
